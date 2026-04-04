@@ -5,9 +5,6 @@
 
 
 # 1️⃣ Mutable default argument
-def bad_default(a=[]):
-    a.append(1)
-    return a
 
 
 # 2️⃣ Bare except
